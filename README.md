@@ -108,9 +108,13 @@ The application:
 - Predicts category using the trained Logistic Regression model
 - Displays prediction results
 
-### Live Demo
+## Project Links
 
-[Live Demo](https://huggingface.co/spaces/MSK34/bbc-news-category-classification-with-nlp)
+🚀 [Launch Application](https://huggingface.co/spaces/MSK34/bbc-news-category-classification)
+
+🤗 [Hugging Face Model](https://huggingface.co/MSK34/bbc-news-nlp-classifier)
+
+💻 [GitHub Repository](https://github.com/MSK-237/bbc-news-category-classification)
 
 ---
 

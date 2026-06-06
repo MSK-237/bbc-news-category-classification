@@ -110,7 +110,7 @@ The application:
 
 ## Project Links
 
-🚀 [Launch Application](https://huggingface.co/spaces/MSK34/bbc-news-category-classification)
+🚀 [Launch Application](https://huggingface.co/spaces/MSK34/bbc-news-category-classification-with-nlp)
 
 🤗 [Hugging Face Model](https://huggingface.co/MSK34/bbc-news-nlp-classifier)
 
